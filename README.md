@@ -9,7 +9,6 @@ I built it for weekly updates to leadership. It works on any text a reader didn'
 Before:
 > This month the team made significant progress across key initiatives. We continued to drive alignment with stakeholders and leveraged AI to streamline workflows.
 
-Congratulations to the team, I guess. What exactly did they make progress on?
 
 After:
 > Payroll Onboarding: new customers now reach their first payroll in 6 days, down from 9. We removed the manual bank-detail check, which caused 40% of the delays.
